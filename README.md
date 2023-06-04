@@ -1,6 +1,6 @@
 # README
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-YourUsername-000?style=flat&logo=github)](https://github.com/AndreaBarberio)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-AndreaBarberio-000?style=flat&logo=github)](https://github.com/AndreaBarberio)
 
 Benvenuto nel mio profilo GitHub! 🌟
 
@@ -23,5 +23,5 @@ Il mio obiettivo principale è continuare a perfezionare le mie competenze nel c
 Sono sempre aperto a nuove opportunità di collaborazione e a connettermi con professionisti del settore. Se hai domande, suggerimenti o vuoi semplicemente fare una chiacchierata, non esitare a contattarmi! Puoi trovarmi su diverse piattaforme di social media o inviarmi un'e-mail. Sarà un piacere sentirti! 💌
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-YourUsername-0077B5?style=flat&logo=[linkedin](https://www.linkedin.com/in/andrea-barberio-8b017b232/))](https://www.linkedin.com/in/AndreaBarberio)
-[![Email Badge](https://img.shields.io/badge/Email-YourEmail-0077B5?style=flat&logo=gmail)](mailto:andrea.barberio97@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-AndreaBarberio-0077B5?style=flat&logo=[linkedin](https://www.linkedin.com/in/andrea-barberio-8b017b232/))](https://www.linkedin.com/in/[AndreaBarberio](https://www.linkedin.com/in/andrea-barberio-8b017b232/))
+[![Email Badge](https://img.shields.io/badge/Email-andrea.barberio97@gmail.com-0077B5?style=flat&logo=gmail)](mailto:andrea.barberio97@gmail.com)
